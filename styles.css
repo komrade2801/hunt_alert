@@ -1,0 +1,12 @@
+/*# sourceMappingURL=styles.css.map */
+article {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    width: 300px;
+    height: 400px;
+    background-image: url("images/alert.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 5px inset #faacac
+}
